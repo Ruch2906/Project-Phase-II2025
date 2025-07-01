@@ -1,0 +1,6 @@
+GUI Tkinter  User interface
+ML  Keras + TensorFlow  CNN model
+Image Handling  PIL + OpenCV  Load and preprocess images
+Data Storage  File system folders  For datasets
+Plotting  Matplotlib    Accuracy & loss visualization
+SQLite  For login/register  authentication is added
